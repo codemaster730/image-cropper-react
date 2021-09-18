@@ -20,7 +20,7 @@ class Uploader extends Component {
 
     uploadImage (imageFileHandle) {
         // Replace code to upload a image file to API and get new URL.
-        return Promise.resolve("https://picsum.photos/900/600?image=0");
+        return Promise.resolve("https://www.minoan.it/images/en/offerte/big/minoan-lines-offers-discount-youngsters-students-big.jpg");
     }
 
     handleClear () {
